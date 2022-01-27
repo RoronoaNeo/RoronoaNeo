@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RoronoaNeo
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: Hunder#2281 (Discord)
 
 <!---
 RoronoaNeo/RoronoaNeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
